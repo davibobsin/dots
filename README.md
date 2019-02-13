@@ -1,0 +1,3 @@
+* Vim
+* tmux
+* Bash
