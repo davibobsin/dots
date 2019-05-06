@@ -1,3 +1,4 @@
+set -sg escape-time 0
 bind-key -n M-Up select-pane -U
 bind-key -n M-Down select-pane -D
 bind-key -n M-Left select-pane -L
